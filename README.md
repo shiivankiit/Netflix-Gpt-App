@@ -32,5 +32,7 @@ Netflix GPT offers a seamless movie browsing experience with the following featu
 
 ## Preview Of Project.
 
+![Screenshot 2024-11-25 131104](https://github.com/user-attachments/assets/79e8b971-34b3-47cc-b7e2-e1d8a62da0fd)
+
 
 
