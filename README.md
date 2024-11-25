@@ -32,7 +32,33 @@ Netflix GPT offers a seamless movie browsing experience with the following featu
 
 ## Preview Of Project.
 
+ __SignUp page__
+
 ![Screenshot 2024-11-25 131104](https://github.com/user-attachments/assets/79e8b971-34b3-47cc-b7e2-e1d8a62da0fd)
+
+__Browse page__
+
+![Screenshot 2024-11-25 131353](https://github.com/user-attachments/assets/1179f150-fef9-4c24-a8e1-b1dccf1c5cdc)
+
+__Movie List__
+
+![Screenshot 2024-11-25 131414](https://github.com/user-attachments/assets/163e809c-a8f7-403f-ab70-d63e3df90f61)
+
+__Search Page__
+
+![Screenshot 2024-11-25 131430](https://github.com/user-attachments/assets/c4822856-d7ab-4ee1-b6f6-4780b2ff1895)
+
+## 🧰 Getting Started
+
+   ‼️__Prerequisites__
+    • Install Node Js in your computer.
+    • Setup Firebase. 
+    • Get you OpenAI Platform API key.
+    • Get you TMDB API key.
+
+ 
+
+
 
 
 
