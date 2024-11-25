@@ -14,3 +14,23 @@ Netflix GPT offers a seamless movie browsing experience with the following featu
 3.__Firebase Authentication__: Secure user authentication powered by Firebase.
 
 4.OpenAI Movie Recommendations: Enter your OpenAI key for personalized movie suggestions.
+
+## ✨ Key Features
+ > Login/Sign Up:Seamlessly create and manage your account.
+ > Browse movies:Explore a vast collection of movies after authentication
+ 
+## 📝 Implementation Inventory
+ 1. __Create React App__: Kickstart your project with the latest React features
+ 2. __TailwindCSS Configuration__: Style your project with ease using TailwindCSS
+ 3. __Header Implementation__: Set up a visually appealing header for easy navigation
+ 4.__Routing Setup__: Navigate through different sections of the app effortlessly
+ 5.__Login & Sign Up Forms__: Provide users with a smooth onboarding experience
+ 6.__Form Validation__: Ensure data integrity with robust form validation
+ 7.  __Firebase Integration__: Utilize Firebase for authentication and data storage
+ 8.__Production Deployment__: Launch your project to a live environment for users to access
+ 9.__Redux Store Setup__: Manage user state efficiently with Redux
+
+## Preview Of Project.
+
+
+
