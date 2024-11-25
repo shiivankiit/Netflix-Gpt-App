@@ -48,13 +48,6 @@ __Search Page__
 
 ![Screenshot 2024-11-25 131430](https://github.com/user-attachments/assets/c4822856-d7ab-4ee1-b6f6-4780b2ff1895)
 
-## 🧰 Getting Started
-
-   ‼️__Prerequisites__
-    • Install Node Js in your computer.
-    • Setup Firebase. 
-    • Get you OpenAI Platform API key.
-    • Get you TMDB API key.
 
  
 
